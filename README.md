@@ -8,9 +8,26 @@
   :rocket: Aplicações desenvolvidas durante o Intensivão de Python da Hashtag Programação :rocket:
 </h4>
 
+<p>&nbsp;</p>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/Intensivao_Python">	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasJuk/Intensivao_Python">
+	 
+  <a href="https://github.com/EliasJuk/Intensivao_Python/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasJuk/Intensivao_Python">
+  </a>
+  
+  <a href="https://github.com/EliasJuk/Intensivao_Python/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasJuk/Intensivao_Python">
+  </a>
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
+</p>
+
 ---
 
-## Intensivão de Python
+## :snake: Intensivão de Python
 
 - Vire uma referência no Mercado de Trabalho por causa do Python
 - Saia do Zero e seja mais valorizado em qualquer empresa em 4 dias
