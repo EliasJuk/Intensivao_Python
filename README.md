@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img alt="logo" title="#logo" src="readme/logo-hashtag.png"/>
+    <img alt="logo" title="#logo" src="readme/logo-hashtag.png" width="350px"/>
 </h4>
 
 ---
