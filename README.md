@@ -1,5 +1,11 @@
 <h4 align="center">
-    <img alt="logo" title="#logo" src="readme/logo-hashtag.png" width="350px"/>
+    <img alt="logo" title="#logo" src="readme/logo-hashtag.png" width="300px"/>
+</h4>
+
+<p>&nbsp;</p>
+
+<h4 align="center"> 
+  :rocket: Aplicações desenvolvidas durante o Intensivão de Python da Hashtag Programação :rocket:
 </h4>
 
 ---
