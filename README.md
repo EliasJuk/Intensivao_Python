@@ -2,13 +2,9 @@
     <img alt="logo" title="#logo" src="readme/logo-hashtag.png" width="300px"/>
 </h4>
 
-<p>&nbsp;</p>
-
 <h4 align="center"> 
   :rocket: Aplicações desenvolvidas durante o Intensivão de Python da Hashtag Programação :rocket:
 </h4>
-
-<p>&nbsp;</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/Intensivao_Python">	
