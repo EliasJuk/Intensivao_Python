@@ -41,10 +41,10 @@ Aprenda a automatizar qualquer processo da sua empresa e nunca mais passar horas
 Como fazer Análise de Dados com o Python para extrair o máximo de qualquer tipo de base de dados
 
 ### AULA 3 - 11/AGO/2021
-Entenda como funcionam os projetos de Ciência de Dados e Inteligência Artificial do começo ao fim
+Como fazer Web Scraping no Python para obter todas as informações que você precisa em Automações Web
 
 ### AULA 4 - 12/AGO/2021
-Como fazer Web Scraping no Python para obter todas as informações que você precisa em Automações Web
+Entenda como funcionam os projetos de Ciência de Dados e Inteligência Artificial do começo ao fim
 
 #### | [intensivão hashtag treinamentos](https://pages.hashtagtreinamentos.com/inscricao-intensivao-de-python-org) | [youtube](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg) |
 
