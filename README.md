@@ -35,16 +35,20 @@
 ## :calendar: Calendário Completo do Intensivão:
 
 ### AULA 1 - 09/AGO/2021
-Aprenda a automatizar qualquer processo da sua empresa e nunca mais passar horas e horas em trabalhos repetitivos
+- Aprenda a automatizar qualquer processo da sua empresa e nunca mais passar horas e horas em trabalhos repetitivos
+- Automação, Importar Base de Dados, Controlar Mouse e Teclado, Enviar E-mail Automático
 
 ### AULA 2 - 10/AGO/2021
-Como fazer Análise de Dados com o Python para extrair o máximo de qualquer tipo de base de dados
+- Como fazer Análise de Dados com o Python para extrair o máximo de qualquer tipo de base de dados
+- Análise de Dados, Tratamento de Dados, Gráficos em Python, Tabelas (DataFrames)
 
 ### AULA 3 - 11/AGO/2021
-Como fazer Web Scraping no Python para obter todas as informações que você precisa em Automações Web
+- Como fazer Web Scraping no Python para obter todas as informações que você precisa em Automações Web
+- Automação web (web Scraping), Selenium, Exportar Relatórios, Pesquisa Automática
 
 ### AULA 4 - 12/AGO/2021
-Entenda como funcionam os projetos de Ciência de Dados e Inteligência Artificial do começo ao fim
+- Entenda como funcionam os projetos de Ciência de Dados e Inteligência Artificial do começo ao fim
+- Ciência de Dados, Análise Exploratória, Inteligência Artificial, Previsão de Vendas, Análises de Modelos
 
 #### | [intensivão hashtag treinamentos](https://pages.hashtagtreinamentos.com/inscricao-intensivao-de-python-org) | [youtube](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg) |
 
